@@ -1,6 +1,0 @@
-  display: grid;
-  place-items: center;
-These center the items equally
--Have separate file for variables/ API links/keys
--We set values of user, token in the data layer
--While debugging we can set initial value of token with the actual token
